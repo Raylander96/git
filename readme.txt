@@ -1,2 +1,4 @@
 Teste inicial
-Mudança do projeto para teste.
+Mudança do projeto para teste
+Linha adicionada
+Nova linha
