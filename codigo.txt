@@ -1,10 +1,2 @@
 Codigo Inicial
-
-Adicionando novos codigos ao codigo inicial
-para teste de controle de versão.
-
-Adicionando nova linha de codigo para teste de commit.
-
-Nova função
-
-Nova função para teste 
+MODIFICADO
